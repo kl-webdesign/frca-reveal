@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/frca-reveal/precache-manifest.675e728d87d1230c53283e3d9cdff0f5.js"
+  "/frca-reveal/precache-manifest.37a134dabcd3ecfc25c44c8f9faffb99.js"
 );
 
 self.addEventListener('message', (event) => {
