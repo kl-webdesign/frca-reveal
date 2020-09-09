@@ -8,24 +8,35 @@
 }
 
 .App .logo {
-  width: 13vw;
+  width: 200px;
 }
 .Screenshots {
   margin: 2vw;
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-shrink: 1;
+  flex-grow: 0;
 }
 .Screenshots img {
-  object-fit: cover;
-  height: 26vw;
-  width: 12vw;
+  display: flex;
+
+  height: 433px;
+  width: 200px;
 
   margin: 1vw;
   -webkit-box-shadow: 0px 0px 16px 1px rgba(0, 0, 0, 0.2);
   -moz-box-shadow: 0px 0px 16px 1px rgba(0, 0, 0, 0.2);
   box-shadow: 0px 0px 16px 1px rgba(0, 0, 0, 0.2);
 }
+
 .Badge img {
-  height: 2vw;
+  height: 50px;
+  padding-top: 20px;
   margin: 0.5vw;
+}
+
+img {
+  -ms-interpolation-mode: bicubic;
 }

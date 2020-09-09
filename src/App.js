@@ -13,19 +13,19 @@ import play from "./assets/google-play.png";
 function App() {
   return (
     <div className="App">
-      <img src={logo} className="logo"></img>
+      <img src={logo} className="logo" alt="logo"></img>
 
       <div className="Screenshots">
-        <img src={screen1}></img>
-        <img src={screen2}></img>
-        <img src={screen3}></img>
-        <img src={screen4}></img>
-        <img src={screen5}></img>
-        <img src={screen6}></img>
+        <img src={screen1} alt="Screenshot"></img>
+        <img src={screen2} alt="Screenshot"></img>
+        <img src={screen3} alt="Screenshot"></img>
+        <img src={screen4} alt="Screenshot"></img>
+        <img src={screen5} alt="Screenshot"></img>
+        <img src={screen6} alt="Screenshot"></img>
       </div>
       <div className="Badge">
-        <img src={app}></img>
-        <img src={play}></img>
+        <img src={app} alt="Apple/IOS"></img>
+        <img src={play} alt="google/ANDROID"></img>
       </div>
     </div>
   );
