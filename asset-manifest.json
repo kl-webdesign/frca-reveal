@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/frca-reveal/static/css/main.97a579e2.chunk.css",
+    "main.js": "/frca-reveal/static/js/main.541ba090.chunk.js",
+    "main.js.map": "/frca-reveal/static/js/main.541ba090.chunk.js.map",
+    "runtime-main.js": "/frca-reveal/static/js/runtime-main.6a0ae705.js",
+    "runtime-main.js.map": "/frca-reveal/static/js/runtime-main.6a0ae705.js.map",
+    "static/js/2.c1f85372.chunk.js": "/frca-reveal/static/js/2.c1f85372.chunk.js",
+    "static/js/2.c1f85372.chunk.js.map": "/frca-reveal/static/js/2.c1f85372.chunk.js.map",
+    "index.html": "/frca-reveal/index.html",
+    "precache-manifest.675e728d87d1230c53283e3d9cdff0f5.js": "/frca-reveal/precache-manifest.675e728d87d1230c53283e3d9cdff0f5.js",
+    "service-worker.js": "/frca-reveal/service-worker.js",
+    "static/css/main.97a579e2.chunk.css.map": "/frca-reveal/static/css/main.97a579e2.chunk.css.map",
+    "static/js/2.c1f85372.chunk.js.LICENSE.txt": "/frca-reveal/static/js/2.c1f85372.chunk.js.LICENSE.txt",
+    "static/media/app-store.svg": "/frca-reveal/static/media/app-store.2928664f.svg",
+    "static/media/google-play.png": "/frca-reveal/static/media/google-play.08fc877f.png",
+    "static/media/logo.png": "/frca-reveal/static/media/logo.1624bd57.png",
+    "static/media/screen1.png": "/frca-reveal/static/media/screen1.8f4aad62.png",
+    "static/media/screen2.png": "/frca-reveal/static/media/screen2.35eb8ea3.png",
+    "static/media/screen3.png": "/frca-reveal/static/media/screen3.450b23fc.png",
+    "static/media/screen4.png": "/frca-reveal/static/media/screen4.e4d3f9bb.png",
+    "static/media/screen5.png": "/frca-reveal/static/media/screen5.4ca48c59.png",
+    "static/media/screen6.png": "/frca-reveal/static/media/screen6.d933191d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a0ae705.js",
+    "static/js/2.c1f85372.chunk.js",
+    "static/css/main.97a579e2.chunk.css",
+    "static/js/main.541ba090.chunk.js"
+  ]
+}
