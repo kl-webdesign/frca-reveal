@@ -38,7 +38,7 @@ export default function CheckoutForm(props) {
     setText("Loading...");
     await axios
       .post(
-        "https://cors-anywhere.herokuapp.com/http://sql-test-api.herokuapp.com/createMethod",
+        "http://sql-test-api.herokuapp.com/createMethod",
         {
           token: token,
           customerID: ID,
@@ -48,7 +48,7 @@ export default function CheckoutForm(props) {
         console.log(response);
         await axios
           .post(
-            "https://cors-anywhere.herokuapp.com/http://sql-test-api.herokuapp.com/createSub",
+            "http://sql-test-api.herokuapp.com/createSub",
             {
               customerID: ID,
               paymentID: response.data.id,
@@ -56,7 +56,7 @@ export default function CheckoutForm(props) {
           )
           .then((resp) => {
             console.log(resp);
-            props.history.push("/");
+            props.history.push("/success");
           })
           .catch((err) => {
             console.log(err);

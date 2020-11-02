@@ -35,7 +35,7 @@ export default function Register({ history }) {
     setText("Loading...");
     await axios
       .post(
-        "https://cors-anywhere.herokuapp.com/http://sql-test-api.herokuapp.com/register",
+        "http://sql-test-api.herokuapp.com/register",
         {
           firstName: details.fname,
           lastName: details.lname,
@@ -47,7 +47,7 @@ export default function Register({ history }) {
         console.log(response);
         await axios
           .post(
-            "https://cors-anywhere.herokuapp.com/http://sql-test-api.herokuapp.com/addBilling",
+            "http://sql-test-api.herokuapp.com/addBilling",
             {
               address: {
                 city: billing.city,
