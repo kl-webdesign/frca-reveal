@@ -1,35 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b16552c126aeba3358085f5ba5ad3915",
+    "revision": "90336c332c5f23998632987c78806b3e",
     "url": "/index.html"
   },
   {
-    "revision": "f0978741a04a39a52677",
-    "url": "/static/css/main.78cbb57d.chunk.css"
+    "revision": "014d2ee2cebf5670cbc7",
+    "url": "/static/css/main.291b0f1c.chunk.css"
   },
   {
-    "revision": "87a07dbcc6568cc6060a",
-    "url": "/static/js/2.fc838160.chunk.js"
+    "revision": "d8beaa259b50bb6b0e25",
+    "url": "/static/js/2.cfbf2ca0.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/static/js/2.fc838160.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.cfbf2ca0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f0978741a04a39a52677",
-    "url": "/static/js/main.32f3da12.chunk.js"
+    "revision": "014d2ee2cebf5670cbc7",
+    "url": "/static/js/main.8fd217ae.chunk.js"
   },
   {
     "revision": "3551ddb86256ea444a0c",
     "url": "/static/js/runtime-main.06094903.js"
-  },
-  {
-    "revision": "2928664fe1fc6aca88583a6f606d60ba",
-    "url": "/static/media/app-store.2928664f.svg"
-  },
-  {
-    "revision": "08fc877f57af13381e67c39deee45d38",
-    "url": "/static/media/google-play.08fc877f.png"
   },
   {
     "revision": "c980b8f4a6fd8c8d8c9ca56506fe4c6d",
